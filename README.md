@@ -1,9 +1,9 @@
 # Automatisch Generierte Leichte Sprache
 
-Im Rahmen der Bachelorarbeit wurde verschiedene Software erstellt
+Im Rahmen der Bachelorarbeit wurde verschiedene Software erstellt. Die Arbeit gliedert sich in drei technische Bereiche, die jeweils in einem eigenen Ordner behandelt werden. Der Ordner `automatic_text_simplification` umfasst die automatische Generierung sowie Analyse der generierten Texte. Der Ordner `evaluation` behandelt die Auswertung der Daten sowie die Erstellung der Diagramme. Der Ordner `study` enthält den Code für die Verständlichkeitsstudie.
 
-Die Arbeit teilt sich in drei technische Bereiche auf, welche in den drei verschiedenen Ordnern behandelt werden. Der erste Ordner `automatic_text_simplification` behadelt die automatische Generierung sowie Analyse der generierten Texte. Im zweiten Ordner `evaluation` geht es um die Auswertung der Daten, sowie die Erstellung der Diagramme. Der dritte Ordner `study` enthält den Code für die Verständlichkeitsstudie.
-Im Ordner `data`befinden sich alle Daten, welche im Rahmen der Arbeit erhoben wurden.
+Alle im Rahmen der Arbeit erhobenen Daten liegen im Ordner `data`
+
 
 ## Inhaltsverzeichnis
 
