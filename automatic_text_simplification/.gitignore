@@ -1,0 +1,19 @@
+# Python (generation/)
+generation/venv/
+__pycache__/
+*.pyc
+
+# Node / TypeScript (readability-server/)
+readability-server/node_modules/
+readability-server/dist/
+
+# Umgebungsvariablen (API-Keys etc.)
+.env
+*.env
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+.idea/

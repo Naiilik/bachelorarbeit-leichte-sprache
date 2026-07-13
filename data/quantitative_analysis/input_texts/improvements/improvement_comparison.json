@@ -1,0 +1,20 @@
+[
+  {
+    "text": "Alltagstext",
+    "original_mean_score": 52.00840010344666,
+    "improved_mean_score": 78.90344621246682,
+    "score_difference": 26.895046109020157
+  },
+  {
+    "text": "Behördentext",
+    "original_mean_score": 33.26331446455607,
+    "improved_mean_score": 75.62780445606485,
+    "score_difference": 42.36448999150878
+  },
+  {
+    "text": "Sachtext",
+    "original_mean_score": 15.395664983164979,
+    "improved_mean_score": 62.81285675972258,
+    "score_difference": 47.4171917765576
+  }
+]

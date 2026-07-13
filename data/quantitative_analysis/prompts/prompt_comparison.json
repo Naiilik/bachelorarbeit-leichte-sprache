@@ -1,0 +1,29 @@
+[
+  {
+    "prompt": "Einfach",
+    "average_general_score": 73.77424984416542,
+    "best_score": 96.80159413986397,
+    "average_time": 9.983933333333333,
+    "min_time": 1.559,
+    "count": 105,
+    "score_std": 16.58984023641448
+  },
+  {
+    "prompt": "Moderat",
+    "average_general_score": 73.45122676608445,
+    "best_score": 95.29017914591589,
+    "average_time": 10.439552380952382,
+    "min_time": 2.1046666666666667,
+    "count": 105,
+    "score_std": 17.86035694447826
+  },
+  {
+    "prompt": "Komplex",
+    "average_general_score": 70.11863081800438,
+    "best_score": 94.31623266363022,
+    "average_time": 13.64335873015873,
+    "min_time": 1.847,
+    "count": 105,
+    "score_std": 18.111656212418627
+  }
+]

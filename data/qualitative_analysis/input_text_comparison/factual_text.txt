@@ -1,0 +1,15 @@
+Wir reden heute über etwas, das sich „Generative KI“ oder „schöpferische Künstliche Intelligenz“ nennt.
+Das ist ein Teil von etwas Größerem, das wir „Künstliche Intelligenz“ nennen. 
+Künstliche Intelligenz bedeutet, dass Computer so programmiert werden, dass sie Dinge tun können, die normalerweise Menschen tun.
+Bei der Generativen KI geht es darum, dass Computer selbst neue Dinge machen. 
+Sie können zum Beispiel neue Bilder, Texte oder sogar ganze virtuelle Welten erstellen. 
+Dabei benutzen sie komplizierte Rechenvorgänge, die wir „Algorithmen“ nennen.
+Für diese Algorithmen muss der Computer viel lernen. 
+Er schaut sich viele Daten an und sucht nach Mustern. 
+Wenn er diese Muster gelernt hat, kann er sie benutzen, um neue Dinge zu machen. 
+Diese Dinge hat noch niemand vorher gesehen.
+Es gibt viele Möglichkeiten, wie man Generative KI benutzen kann. 
+Man kann damit zum Beispiel Kunst machen oder Texte schreiben.
+Aber es gibt auch Risiken. 
+Denn man könnte die Technologie auch benutzen, um Sachen zu fälschen. 
+Deshalb ist es wichtig, dass wir gut aufpassen, wie wir Generative KI benutzen.

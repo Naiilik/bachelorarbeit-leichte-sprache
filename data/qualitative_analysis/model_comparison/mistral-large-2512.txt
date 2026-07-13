@@ -1,0 +1,61 @@
+Was ist schöpferische Künstliche Intelligenz?
+Heute gibt es Computer-Programme, die selbst Dinge erschaffen können.
+Diese Programme heißen schöpferische Künstliche Intelligenz.
+Man sagt auch: Generative KI.
+Generative KI ist ein Teil von Künstlicher Intelligenz.
+Künstliche Intelligenz bedeutet:
+Computer können lernen und Aufgaben lösen wie Menschen.
+Generative KI macht etwas Besonderes.
+Sie erfindet neue Dinge.
+Zum Beispiel:
+neue Bilder
+neue Texte
+neue Musik
+Andere Computer-Programme schauen sich nur Daten an.
+Sie sagen zum Beispiel:
+„Das ist ein Hund.“
+Oder:
+„Das ist ein Baum.“
+Aber Generative KI macht etwas Neues.
+Sie erfindet zum Beispiel ein Bild von einem Hund, den es nicht gibt.
+Oder sie schreibt einen Text, den noch niemand geschrieben hat.
+Wie macht die Generative KI das?
+Sie lernt aus vielen Beispielen.
+Zum Beispiel:
+Sie schaut sich tausend Bilder von Hunden an.
+Dann merkt sie sich:
+So sieht ein Hund aus.
+So malt man einen Hund.
+Danach kann die Generative KI selbst einen Hund malen.
+Einen Hund, den es noch nie gab.
+Generative KI kann vieles machen.
+Zum Beispiel:
+Sie malt Bilder.
+Sie schreibt Geschichten.
+Sie macht Fotos, die es nicht gibt.
+Sie erfindet Stimmen von Menschen.
+Ein bekanntes Beispiel ist ChatGPT.
+Das ist ein Programm, das mit dir redet.
+Du schreibst eine Frage.
+ChatGPT schreibt eine Antwort.
+Generative KI kann vielen Menschen helfen.
+Zum Beispiel:
+Künstler können neue Ideen bekommen.
+Firmen können schneller Texte schreiben.
+Spiele-Entwickler können neue Welten bauen.
+Aber es gibt auch Probleme.
+Manche Menschen nutzen Generative KI für schlechte Dinge.
+Zum Beispiel:
+Sie machen falsche Bilder.
+Sie erfinden Lügen über Menschen.
+Sie machen Videos, in denen Menschen etwas sagen, das sie nie gesagt haben.
+Das nennt man Deepfake.
+Das ist gefährlich.
+Deshalb muss man aufpassen.
+Man muss Regeln machen.
+Damit die Generative KI nur Gutes macht.
+Wichtig ist:
+Generative KI ist stark.
+Aber sie muss sicher sein.
+Jeder soll sie richtig nutzen.
+Dann kann sie viel Gutes bewirken.

@@ -1,0 +1,948 @@
+{
+  "name": "Appa 1.0",
+  "nodes": [
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "={{ $('Webhook').item.json.body.model }}",
+          "mode": "id"
+        },
+        "responses": {
+          "values": [
+            {
+              "role": "system",
+              "content": "={{ $('Webhook').item.json.body.prompt }}"
+            },
+            {
+              "role": "=user",
+              "content": "={{ $('Webhook').item.json.body.text }}"
+            }
+          ]
+        },
+        "builtInTools": {},
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.openAi",
+      "typeVersion": 2.1,
+      "position": [
+        224,
+        -352
+      ],
+      "id": "65145be8-ebec-40ee-a68b-3f4659090706",
+      "name": "Message a model",
+      "credentials": {
+        "openAiApi": {
+          "id": "DmxBUn8mhmzPVUuL",
+          "name": "OpenAi account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={\n  \"text\":{{ JSON.stringify($('Webhook').item.json.body.text) }},\n\"translated\": {{ JSON.stringify($('No Operation, do nothing').item.json.text) }},\n  \"time\":{{ $('Set End Date').item.json.start }},\n\"score\": {{ JSON.stringify($json.score )}},\n\"analyse\": {{ JSON.stringify($json.analysis )}},\n\"model\": {{ JSON.stringify($('Webhook').item.json.body.model) }},\n\"textTitle\": {{ JSON.stringify($('Webhook').item.json.body.textTitle )}},\n\"promptTitle\":{{ JSON.stringify($('Webhook').item.json.body.promptTitle) }},\n\"temperatur\": {{ JSON.stringify($('Webhook').item.json.body.temperatur )}}\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.4,
+      "position": [
+        1408,
+        144
+      ],
+      "id": "789e39b4-67e1-463c-8fdf-113f37ee1c7b",
+      "name": "Respond to Webhook"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "cc8ef544-2e98-4a2c-aea6-5f821c2ffc84",
+              "name": "start",
+              "value": "={{ $now.toISO() }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        -288,
+        144
+      ],
+      "id": "c2dd64ed-ef75-4884-8765-b4c22088a6fe",
+      "name": "Set start time"
+    },
+    {
+      "parameters": {
+        "content": "# API Anfragen\n",
+        "height": 112,
+        "width": 230
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        112,
+        -480
+      ],
+      "typeVersion": 1,
+      "id": "e680f99b-4863-4a37-8af5-f362609317f9",
+      "name": "Sticky Note"
+    },
+    {
+      "parameters": {
+        "content": "## Stoppuhr Ende\n\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        944,
+        32
+      ],
+      "typeVersion": 1,
+      "id": "2279edeb-c6d6-432f-9767-9e739272ce81",
+      "name": "Sticky Note1"
+    },
+    {
+      "parameters": {
+        "content": "## Stoppuhr Start\n\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        -320,
+        32
+      ],
+      "typeVersion": 1,
+      "id": "ec0e43b3-556f-44d7-9733-67502c296521",
+      "name": "Sticky Note2"
+    },
+    {
+      "parameters": {
+        "content": "## Text Analyse",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        1168,
+        32
+      ],
+      "typeVersion": 1,
+      "id": "2cb35d55-98a8-4298-a390-4f787b7674b4",
+      "name": "Sticky Note3"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:3000",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "text",
+              "value": "={{ JSON.stringify($('No Operation, do nothing').item.json.text) }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        1184,
+        144
+      ],
+      "id": "4d6ad307-5a39-4fb7-a1fe-6926b71d8df0",
+      "name": "HTTP Request"
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "45fa5a94-e74e-4e3b-9c27-135adc541655",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2.1,
+      "position": [
+        -512,
+        144
+      ],
+      "id": "11d19f09-1cfd-45e3-9c36-30846f47387b",
+      "name": "Webhook",
+      "webhookId": "45fa5a94-e74e-4e3b-9c27-135adc541655"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.mistral.ai/v1/chat/completions",
+        "authentication": "predefinedCredentialType",
+        "nodeCredentialType": "mistralCloudApi",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": {{ JSON.stringify($('Webhook').item.json.body.model) }},\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": {{ JSON.stringify($('Webhook').item.json.body.prompt) }}\n    },\n{\n\"role\": \"user\",\n\"content\": {{ JSON.stringify($('Webhook').item.json.body.text )}}\n}\n  ],\n  \"temperature\": {{ $('Webhook').item.json.body.temperatur }}\n}",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        224,
+        -176
+      ],
+      "id": "b3308f7d-b3c0-4a23-abb7-857dcde270fa",
+      "name": "MistralAPI",
+      "credentials": {
+        "mistralCloudApi": {
+          "id": "9jlHdn4QzEtZXBFm",
+          "name": "Mistral Cloud account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "rules": {
+          "values": [
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "leftValue": "={{ $('Webhook').item.json.body.LLM }}",
+                    "rightValue": "ChatGPT",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    },
+                    "id": "89ee3ee4-6d70-45ab-946c-27297c153e6d"
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "56aeabaf-be53-48cd-ad6b-388131f763b7",
+                    "leftValue": "={{ $('Webhook').item.json.body.LLM }}",
+                    "rightValue": "Mistral",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "8cddee62-eb13-4084-84e1-f7007dc66e08",
+                    "leftValue": "={{ $('Webhook').item.json.body.LLM }}",
+                    "rightValue": "Gemini",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "0072495b-b14a-47bc-8c8d-ef63a59df98c",
+                    "leftValue": "={{ $('Webhook').item.json.body.LLM }}",
+                    "rightValue": "Ollama",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "14e4c412-bdcf-4a4c-a843-74c44db46e85",
+                    "leftValue": "={{ $('Webhook').item.json.body.LLM }}",
+                    "rightValue": "Claude",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            },
+            {
+              "conditions": {
+                "options": {
+                  "caseSensitive": true,
+                  "leftValue": "",
+                  "typeValidation": "strict",
+                  "version": 2
+                },
+                "conditions": [
+                  {
+                    "id": "e2a2fa72-c171-45a5-bc89-44c3f80d86df",
+                    "leftValue": "={{ $('Webhook').item.json.body.LLM }}",
+                    "rightValue": "=Test",
+                    "operator": {
+                      "type": "string",
+                      "operation": "equals",
+                      "name": "filter.operator.equals"
+                    }
+                  }
+                ],
+                "combinator": "and"
+              }
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.switch",
+      "typeVersion": 3.3,
+      "position": [
+        -64,
+        80
+      ],
+      "id": "e9e54321-e873-4810-82f0-e48810615cd3",
+      "name": "Switch"
+    },
+    {
+      "parameters": {},
+      "type": "n8n-nodes-base.noOp",
+      "typeVersion": 1,
+      "position": [
+        736,
+        144
+      ],
+      "id": "1e542686-f7c6-40c2-ad15-52790c5b5242",
+      "name": "No Operation, do nothing"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7ab501d0-31a0-42e0-87c9-ac33e83e0094",
+              "name": "text",
+              "value": "={{ $json.choices[0].message.content }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        512,
+        -176
+      ],
+      "id": "cdf02275-be42-4055-b054-c0d822bab493",
+      "name": "Edit Fields"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "4de29c5f-6fd4-4bb8-b5ce-c6094b887f01",
+              "name": "text",
+              "value": "={{ $json.output[0].content[0].text }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        512,
+        -352
+      ],
+      "id": "1dd8d421-2582-4e71-88c0-c9116e8c2965",
+      "name": "Edit Fields2"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "=models/{{ $('Webhook').item.json.body.model }}",
+          "mode": "id"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "={{ $('Webhook').item.json.body.prompt }}",
+              "role": "model"
+            },
+            {
+              "content": "={{ $('Webhook').item.json.body.text }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.googleGemini",
+      "typeVersion": 1,
+      "position": [
+        160,
+        32
+      ],
+      "id": "85c044f4-1b40-40cc-9407-20ad084998e2",
+      "name": "Message a model1",
+      "retryOnFail": true,
+      "maxTries": 5,
+      "credentials": {
+        "googlePalmApi": {
+          "id": "tFm31SqpbAEV8h6y",
+          "name": "Google Gemini(PaLM) Api account 3"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7ab501d0-31a0-42e0-87c9-ac33e83e0094",
+              "name": "text",
+              "value": "={{ $json.content.parts[0].text }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        512,
+        32
+      ],
+      "id": "e53a1b38-f58f-436b-9641-f42c1ed254d8",
+      "name": "Edit Fields3"
+    },
+    {
+      "parameters": {
+        "content": "## Gemini\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        352,
+        -64
+      ],
+      "typeVersion": 1,
+      "id": "738f272a-3592-46a6-b57f-44cf98624ecf",
+      "name": "Sticky Note4"
+    },
+    {
+      "parameters": {
+        "content": "## Mistral",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        352,
+        -240
+      ],
+      "typeVersion": 1,
+      "id": "d550a27b-ca80-4e63-a6a1-8a5651ea2603",
+      "name": "Sticky Note5"
+    },
+    {
+      "parameters": {
+        "content": "## ChatGPT\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        352,
+        -432
+      ],
+      "typeVersion": 1,
+      "id": "eae3c657-b6bb-4c2c-8780-0d79d8aaed20",
+      "name": "Sticky Note6"
+    },
+    {
+      "parameters": {
+        "content": "## Ollama\n\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        368,
+        144
+      ],
+      "typeVersion": 1,
+      "id": "b8947158-d33f-41f1-9b3d-b61b58ecb3db",
+      "name": "Sticky Note7"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7ab501d0-31a0-42e0-87c9-ac33e83e0094",
+              "name": "text",
+              "value": "={{ $json.message.content }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        512,
+        224
+      ],
+      "id": "dcd07c8e-2a1a-438a-ad4c-10b6f18fad92",
+      "name": "Edit Fields4"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "http://host.docker.internal:11434/api/chat",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": {{ JSON.stringify($('Webhook').item.json.body.model) }},\n  \"messages\": [\n    {\n      \"role\": \"system\",\n      \"content\": {{ JSON.stringify($('Webhook').item.json.body.prompt) }}\n    },\n    {\n      \"role\": \"user\",\n      \"content\": {{ JSON.stringify($('Webhook').item.json.body.text) }}\n    }\n  ],\n  \"stream\": false,\n  \"keep_alive\": 0\n} ",
+        "options": {}
+      },
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.3,
+      "position": [
+        224,
+        224
+      ],
+      "id": "3606ff3f-76a9-4cca-9985-5a19201012f8",
+      "name": "Ollama"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7ab501d0-31a0-42e0-87c9-ac33e83e0094",
+              "name": "text",
+              "value": "={{ $('Webhook').item.json.body.text }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        384,
+        624
+      ],
+      "id": "6735a4a1-957f-415a-9565-d356f1efc3ea",
+      "name": "Edit Fields5"
+    },
+    {
+      "parameters": {
+        "modelId": {
+          "__rl": true,
+          "value": "={{ $('Webhook').item.json.body.model }}",
+          "mode": "id"
+        },
+        "messages": {
+          "values": [
+            {
+              "content": "={{ $('Webhook').item.json.body.prompt }}",
+              "role": "assistant"
+            },
+            {
+              "content": "={{ $('Webhook').item.json.body.text }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.anthropic",
+      "typeVersion": 1,
+      "position": [
+        160,
+        416
+      ],
+      "id": "eab07fc2-8643-4d80-b751-a8b5da0bdd24",
+      "name": "Message a model2",
+      "credentials": {
+        "anthropicApi": {
+          "id": "oLtWQHA9PlMQZeVN",
+          "name": "Anthropic account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "7ab501d0-31a0-42e0-87c9-ac33e83e0094",
+              "name": "text",
+              "value": "={{ $json.content[0].text }}",
+              "type": "string"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        512,
+        416
+      ],
+      "id": "3ebcbe20-fda0-4299-83fe-3fb1a390d953",
+      "name": "Edit Fields6"
+    },
+    {
+      "parameters": {
+        "content": "## Claude\n\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        352,
+        320
+      ],
+      "typeVersion": 1,
+      "id": "b6355ab7-34a9-48d6-b279-35e192b70236",
+      "name": "Sticky Note8"
+    },
+    {
+      "parameters": {
+        "assignments": {
+          "assignments": [
+            {
+              "id": "cc8ef544-2e98-4a2c-aea6-5f821c2ffc84",
+              "name": "start",
+              "value": "={{ $now.diff(DateTime.fromISO($('Set start time').item.json.start)).as('seconds') }}",
+              "type": "number"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.set",
+      "typeVersion": 3.4,
+      "position": [
+        960,
+        144
+      ],
+      "id": "18dd85e2-cef6-44e3-afd4-cf0ac362e14e",
+      "name": "Set End Date"
+    },
+    {
+      "parameters": {
+        "content": "## Test\n\n",
+        "height": 80,
+        "width": 150
+      },
+      "type": "n8n-nodes-base.stickyNote",
+      "position": [
+        352,
+        528
+      ],
+      "typeVersion": 1,
+      "id": "72ad95c2-9c16-4b58-970f-e196314a468e",
+      "name": "Sticky Note9"
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Message a model": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields2",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set start time": {
+      "main": [
+        [
+          {
+            "node": "Switch",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "HTTP Request": {
+      "main": [
+        [
+          {
+            "node": "Respond to Webhook",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Webhook": {
+      "main": [
+        [
+          {
+            "node": "Set start time",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Switch": {
+      "main": [
+        [
+          {
+            "node": "Message a model",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "MistralAPI",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Message a model1",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Ollama",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Message a model2",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Edit Fields5",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "MistralAPI": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "No Operation, do nothing": {
+      "main": [
+        [
+          {
+            "node": "Set End Date",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields2": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Message a model1": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields3",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields3": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields4": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Ollama": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields4",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields5": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Message a model2": {
+      "main": [
+        [
+          {
+            "node": "Edit Fields6",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Edit Fields6": {
+      "main": [
+        [
+          {
+            "node": "No Operation, do nothing",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Set End Date": {
+      "main": [
+        [
+          {
+            "node": "HTTP Request",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": true,
+  "settings": {
+    "executionOrder": "v1"
+  },
+  "versionId": "9f13d5b9-41a3-49ca-8e49-5af3adc87bf7",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "fab99f4ebee6d2a989241bcd435288ac964744a1d0672f7bb6fc052483692c8c"
+  },
+  "id": "Z3UGJgjYAAsLo7cR",
+  "tags": []
+}

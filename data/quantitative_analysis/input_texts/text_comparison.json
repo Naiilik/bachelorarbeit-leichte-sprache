@@ -1,0 +1,23 @@
+[
+  {
+    "text": "Alltagstext",
+    "average_general_score": 78.90344621246682,
+    "average_time": 12.093695238095238,
+    "count": 105,
+    "score_std": 17.347587023438145
+  },
+  {
+    "text": "Beh\u00f6rdentext",
+    "average_general_score": 75.62780445606485,
+    "average_time": 10.296504761904762,
+    "count": 105,
+    "score_std": 11.685787462028555
+  },
+  {
+    "text": "Sachtext",
+    "average_general_score": 62.81285675972258,
+    "average_time": 11.676644444444445,
+    "count": 105,
+    "score_std": 18.6633938983549
+  }
+]

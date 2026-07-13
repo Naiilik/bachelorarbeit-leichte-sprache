@@ -1,0 +1,2837 @@
+[
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 64.91678837160637,
+    "StdScore": 6.13678040672805,
+    "Time": 21.772666666666666,
+    "StdTime": 26.293638438476584,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 78.09042197132946,
+    "StdScore": 5.060679374938923,
+    "Time": 13.571666666666667,
+    "StdTime": 5.308807901340313,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 80.19788487772281,
+    "StdScore": 14.75821159760466,
+    "Time": 1.559,
+    "StdTime": 0.10692520750505928,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 83.36503836748167,
+    "StdScore": 5.5937103310028276,
+    "Time": 11.422666666666666,
+    "StdTime": 0.29405158277644705,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 79.4619382932571,
+    "StdScore": 3.7440357183656596,
+    "Time": 11.114,
+    "StdTime": 4.44156875439298,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 87.64584050118225,
+    "StdScore": 9.434999860801328,
+    "Time": 8.155333333333333,
+    "StdTime": 0.644551265093269,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 89.77282140014648,
+    "StdScore": 3.5479482170907337,
+    "Time": 7.471,
+    "StdTime": 0.48732330131033125,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 85.80350049129912,
+    "StdScore": 5.695517311860221,
+    "Time": 3.8049999999999997,
+    "StdTime": 0.22212834128044076,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 85.53672317172857,
+    "StdScore": 5.46824758124299,
+    "Time": 9.191,
+    "StdTime": 0.3452231162596156,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 74.84165396415648,
+    "StdScore": 10.66304067209845,
+    "Time": 12.124666666666666,
+    "StdTime": 1.0417112523791483,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 79.09979082962826,
+    "StdScore": 7.096484866906027,
+    "Time": 10.747666666666667,
+    "StdTime": 0.15275252316519508,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 80.76673152654925,
+    "StdScore": 7.8923952383256175,
+    "Time": 9.065333333333333,
+    "StdTime": 0.5355112821718451,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 73.98160019994543,
+    "StdScore": 12.764613942953899,
+    "Time": 4.433333333333334,
+    "StdTime": 0.6825865024546952,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 66.72739570730909,
+    "StdScore": 9.465443897051527,
+    "Time": 5.519666666666667,
+    "StdTime": 1.3311199545245098,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 72.67415219811997,
+    "StdScore": 14.559764416707912,
+    "Time": 2.952,
+    "StdTime": 0.04800000000000004,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 87.77597690842654,
+    "StdScore": 2.081836510533962,
+    "Time": 9.16,
+    "StdTime": 3.0045347393564947,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 86.19111106621581,
+    "StdScore": 5.005168867284924,
+    "Time": 9.201,
+    "StdTime": 1.302981580836813,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 78.1384433929723,
+    "StdScore": 13.507052108089617,
+    "Time": 3.7333333333333334,
+    "StdTime": 0.48738622603981474,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 81.1422198926049,
+    "StdScore": 3.6632529691425857,
+    "Time": 5.1546666666666665,
+    "StdTime": 0.30143047844127085,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 81.49608546454725,
+    "StdScore": 4.503281499156252,
+    "Time": 3.226,
+    "StdTime": 0.1535219853962292,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 76.34562939741284,
+    "StdScore": 9.300143043384061,
+    "Time": 5.97,
+    "StdTime": 0.34542148167130554,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 82.20005801882176,
+    "StdScore": 3.1225361179330795,
+    "Time": 3.1133333333333333,
+    "StdTime": 0.24339542586772947,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 78.00287734003969,
+    "StdScore": 0.2653516914149344,
+    "Time": 3.615333333333333,
+    "StdTime": 0.36938642819320433,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 75.68975923604955,
+    "StdScore": 7.403369915507598,
+    "Time": 3.0166666666666666,
+    "StdTime": 1.8130031255718597,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 74.5313942549428,
+    "StdScore": 5.13217897383517,
+    "Time": 2.4936666666666665,
+    "StdTime": 0.29411109012298975,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 72.44797402524455,
+    "StdScore": 12.234940712360785,
+    "Time": 2.179333333333333,
+    "StdTime": 0.560664189451523,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 63.0238350398442,
+    "StdScore": 4.667960351704571,
+    "Time": 8.267666666666667,
+    "StdTime": 1.85840397474105,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 64.37511408348453,
+    "StdScore": 3.2903438171879826,
+    "Time": 9.518333333333333,
+    "StdTime": 2.6803418314336946,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 80.4979607703862,
+    "StdScore": 6.3030580522265085,
+    "Time": 6.291666666666667,
+    "StdTime": 0.48035542396576864,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 79.9724315254842,
+    "StdScore": 2.5858817242728813,
+    "Time": 7.214666666666667,
+    "StdTime": 0.5471675550810131,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 65.64804977928706,
+    "StdScore": 19.980865527396336,
+    "Time": 20.204,
+    "StdTime": 3.1925743530887414,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 54.4521385431264,
+    "StdScore": 5.105427440071931,
+    "Time": 20.426666666666666,
+    "StdTime": 1.5703631214892086,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 39.71565972730331,
+    "StdScore": 17.894297473468555,
+    "Time": 13.997,
+    "StdTime": 2.0260236918654226,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 56.745600552875764,
+    "StdScore": 2.932678289916361,
+    "Time": 13.369,
+    "StdTime": 4.077249563124632,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 56.995876222265935,
+    "StdScore": 7.418624951265549,
+    "Time": 29.381666666666668,
+    "StdTime": 4.04885988067423,
+    "Prompt": "Einfach",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 86.61947550218686,
+    "StdScore": 6.064373880408652,
+    "Time": 6.344666666666667,
+    "StdTime": 3.477370893841112,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 82.8570957778129,
+    "StdScore": 1.71304927719624,
+    "Time": 33.89566666666667,
+    "StdTime": 22.186777173202362,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 80.33467136798218,
+    "StdScore": 15.567019178804271,
+    "Time": 3.9466666666666663,
+    "StdTime": 3.7255000111841805,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 83.47032618968291,
+    "StdScore": 7.480987056914912,
+    "Time": 21.558666666666667,
+    "StdTime": 14.024409090344353,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 79.48049427972174,
+    "StdScore": 6.631646074161172,
+    "Time": 7.856,
+    "StdTime": 0.35346711303882267,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 60.147056088608146,
+    "StdScore": 0.6316494263700959,
+    "Time": 7.68,
+    "StdTime": 0.6124287713685573,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 81.0487093036557,
+    "StdScore": 5.514974309011986,
+    "Time": 6.395,
+    "StdTime": 1.140889126953185,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 73.60029592800655,
+    "StdScore": 9.130596059587592,
+    "Time": 4.4543333333333335,
+    "StdTime": 0.6648912191729812,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 69.12767682993494,
+    "StdScore": 2.9617342610340227,
+    "Time": 11.302,
+    "StdTime": 1.3760170783823866,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 84.02173684675806,
+    "StdScore": 4.702248097659542,
+    "Time": 12.395333333333333,
+    "StdTime": 0.33055155926622537,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 88.5341499093605,
+    "StdScore": 2.868281072826381,
+    "Time": 11.663666666666666,
+    "StdTime": 1.603945863591828,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 77.94893468176778,
+    "StdScore": 2.353427105505251,
+    "Time": 9.019333333333334,
+    "StdTime": 1.9068508943630949,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 45.424909511928185,
+    "StdScore": 2.870413216462584,
+    "Time": 4.431333333333334,
+    "StdTime": 1.6255246332594697,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 44.734898230626385,
+    "StdScore": 15.404252807424465,
+    "Time": 3.809,
+    "StdTime": 0.9944164117712458,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 33.75739533489126,
+    "StdScore": 16.540525751788238,
+    "Time": 5.647666666666667,
+    "StdTime": 1.7530705443117034,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 75.04122808113328,
+    "StdScore": 13.558625458907382,
+    "Time": 14.547333333333333,
+    "StdTime": 3.228530057678468,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 65.24111469497707,
+    "StdScore": 10.87746598082331,
+    "Time": 10.460333333333335,
+    "StdTime": 4.70749714108605,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 76.32490808459247,
+    "StdScore": 8.690540848077363,
+    "Time": 3.644,
+    "StdTime": 1.113783192546916,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 73.81581289030233,
+    "StdScore": 1.2935800353416893,
+    "Time": 4.898000000000001,
+    "StdTime": 0.6111988219883936,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 69.37288441794387,
+    "StdScore": 6.54599991117681,
+    "Time": 3.0763333333333334,
+    "StdTime": 0.40294457848857257,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 80.3992859315114,
+    "StdScore": 3.6043303508908817,
+    "Time": 4.971333333333333,
+    "StdTime": 0.33795611154901906,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 88.93405271839879,
+    "StdScore": 4.089929173401978,
+    "Time": 2.5563333333333333,
+    "StdTime": 0.22312851304423933,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 71.32956749054405,
+    "StdScore": 11.47731717746494,
+    "Time": 4.167333333333334,
+    "StdTime": 2.2084287023432143,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 53.8190455289201,
+    "StdScore": 4.81100991095079,
+    "Time": 1.8536666666666668,
+    "StdTime": 0.10824663197223888,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 72.11111566725455,
+    "StdScore": 17.59798046932845,
+    "Time": 7.078333333333333,
+    "StdTime": 2.2270959416543623,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 66.09579781509161,
+    "StdScore": 1.1119945297507496,
+    "Time": 1.8946666666666667,
+    "StdTime": 0.2876531476158975,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 62.46952973918762,
+    "StdScore": 7.048166031568263,
+    "Time": 6.214,
+    "StdTime": 1.4949438116531337,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 77.45645682496964,
+    "StdScore": 4.813158096253823,
+    "Time": 5.998333333333333,
+    "StdTime": 2.118137231940682,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 69.71363515172727,
+    "StdScore": 4.716206408378049,
+    "Time": 5.517666666666667,
+    "StdTime": 0.9190975646433481,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 66.09276841410575,
+    "StdScore": 14.403926113095904,
+    "Time": 6.243333333333333,
+    "StdTime": 0.17009801096230756,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 33.12661617962905,
+    "StdScore": 6.791895866935569,
+    "Time": 23.781,
+    "StdTime": 1.6098636588233182,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 40.792259605227656,
+    "StdScore": 10.162493032791248,
+    "Time": 23.767666666666667,
+    "StdTime": 1.7159575558076416,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 37.39087606923255,
+    "StdScore": 13.813808181044394,
+    "Time": 13.381333333333334,
+    "StdTime": 3.6559423317844253,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 34.62022043694021,
+    "StdScore": 9.36590190913133,
+    "Time": 16.089333333333332,
+    "StdTime": 2.7141481782197037,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 20.479915932465538,
+    "StdScore": 4.3047365017477865,
+    "Time": 44.83133333333333,
+    "StdTime": 6.130494460753823,
+    "Prompt": "Einfach",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 90.40528743594898,
+    "StdScore": 5.973946457376279,
+    "Time": 6.532,
+    "StdTime": 1.2562818155175215,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 95.01046012815455,
+    "StdScore": 0.48551409486957164,
+    "Time": 46.410333333333334,
+    "StdTime": 28.42977765184479,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 93.87641249614032,
+    "StdScore": 1.6590397961266015,
+    "Time": 4.028666666666667,
+    "StdTime": 2.747241586270369,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 91.75160588436678,
+    "StdScore": 0.7749138360383648,
+    "Time": 14.282333333333334,
+    "StdTime": 2.8151387769226113,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 85.19727076380074,
+    "StdScore": 4.445186411229597,
+    "Time": 6.982,
+    "StdTime": 0.9346566214391252,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 94.81421914823915,
+    "StdScore": 0.25781333152157054,
+    "Time": 8.268666666666666,
+    "StdTime": 0.9105670394503267,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 95.73372569354784,
+    "StdScore": 0.22156738632109935,
+    "Time": 9.403666666666666,
+    "StdTime": 2.2288571810085394,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 93.2012465128086,
+    "StdScore": 1.7261392774753597,
+    "Time": 4.488666666666667,
+    "StdTime": 0.46101229195470855,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 93.77263625052187,
+    "StdScore": 0.5981501198161663,
+    "Time": 13.099666666666666,
+    "StdTime": 8.31489274334512,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 96.00866412923965,
+    "StdScore": 0.5551477879625731,
+    "Time": 11.689,
+    "StdTime": 0.792091535114471,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 96.80159413986397,
+    "StdScore": 0.6750967648052858,
+    "Time": 11.365333333333334,
+    "StdTime": 1.6851971200228575,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 94.58507638630827,
+    "StdScore": 2.147952071706581,
+    "Time": 8.077,
+    "StdTime": 0.9266590527265142,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 47.97925550191463,
+    "StdScore": 3.44525679783687,
+    "Time": 7.176,
+    "StdTime": 4.901249126498265,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 46.76607886725507,
+    "StdScore": 4.534264571101769,
+    "Time": 10.149666666666667,
+    "StdTime": 10.193945572413721,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 48.73372206598688,
+    "StdScore": 8.324842829363083,
+    "Time": 2.861666666666667,
+    "StdTime": 0.7676811404048774,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 90.11161323734713,
+    "StdScore": 6.290603254331026,
+    "Time": 12.959333333333333,
+    "StdTime": 2.56612496448114,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 81.04846709757777,
+    "StdScore": 7.784836890388815,
+    "Time": 10.197666666666667,
+    "StdTime": 1.5742916925822013,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 93.06054567029173,
+    "StdScore": 1.34333362492652,
+    "Time": 6.4383333333333335,
+    "StdTime": 0.9540138014375544,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 78.44559594866665,
+    "StdScore": 5.253802970135013,
+    "Time": 9.414333333333333,
+    "StdTime": 7.63432919995813,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 84.31123772844077,
+    "StdScore": 3.4723191188360647,
+    "Time": 7.510666666666666,
+    "StdTime": 7.566475423427564,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 94.45197372956936,
+    "StdScore": 0.27473167188444364,
+    "Time": 5.818333333333333,
+    "StdTime": 0.5059588257292614,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 91.43131885871979,
+    "StdScore": 1.489878226663785,
+    "Time": 7.040666666666667,
+    "StdTime": 7.470495722061109,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 82.53280686253986,
+    "StdScore": 1.8974320282389714,
+    "Time": 8.267,
+    "StdTime": 10.074230094652396,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 80.99506813391623,
+    "StdScore": 9.452158732798809,
+    "Time": 1.8193333333333332,
+    "StdTime": 0.10758407564938839,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 84.54932652144652,
+    "StdScore": 2.388853122877689,
+    "Time": 23.171333333333333,
+    "StdTime": 24.533990713565807,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 78.97307342198603,
+    "StdScore": 7.156510194639253,
+    "Time": 2.0873333333333335,
+    "StdTime": 0.21822083615762589,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 89.30125804240916,
+    "StdScore": 4.579889712899821,
+    "Time": 4.061999999999999,
+    "StdTime": 1.1705502979368294,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 86.90268436448099,
+    "StdScore": 2.378820983964412,
+    "Time": 5.884333333333333,
+    "StdTime": 1.073201441171849,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 80.58672309969307,
+    "StdScore": 0.929134541297823,
+    "Time": 5.489333333333334,
+    "StdTime": 0.0355574652264939,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 83.32635938690905,
+    "StdScore": 3.876594743017875,
+    "Time": 5.723,
+    "StdTime": 0.45433027634090173,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 66.25510333377483,
+    "StdScore": 6.791252788398092,
+    "Time": 17.003333333333334,
+    "StdTime": 1.1423087732015955,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 55.14537835657697,
+    "StdScore": 17.468568493431555,
+    "Time": 19.217666666666666,
+    "StdTime": 2.2079081351662566,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 52.741706299177324,
+    "StdScore": 13.591979855297609,
+    "Time": 12.641,
+    "StdTime": 2.1302565573188597,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 52.46335596731873,
+    "StdScore": 11.401677990066998,
+    "Time": 16.281333333333333,
+    "StdTime": 0.7160840267268456,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 51.019987602553385,
+    "StdScore": 5.455959044267899,
+    "Time": 34.662,
+    "StdTime": 2.4504854621074568,
+    "Prompt": "Einfach",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 76.69809739628113,
+    "StdScore": 3.0247398583240823,
+    "Time": 11.975333333333333,
+    "StdTime": 4.044984589999488,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 85.49190854761774,
+    "StdScore": 1.8315533365298402,
+    "Time": 21.329666666666668,
+    "StdTime": 12.812221092899284,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 79.25372876023896,
+    "StdScore": 7.922685355876834,
+    "Time": 2.6906666666666665,
+    "StdTime": 1.4168430870542206,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 90.21070268432561,
+    "StdScore": 6.713037174264116,
+    "Time": 16.932666666666666,
+    "StdTime": 3.157781710842808,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 80.50172755832197,
+    "StdScore": 6.704740950227366,
+    "Time": 9.022333333333334,
+    "StdTime": 0.8371716271669356,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 87.08917698411396,
+    "StdScore": 3.371070348997417,
+    "Time": 11.804333333333332,
+    "StdTime": 0.7185167592571051,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 89.35015057484718,
+    "StdScore": 4.169683455867032,
+    "Time": 9.478333333333333,
+    "StdTime": 0.5320341467738067,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 87.3946125506723,
+    "StdScore": 5.1477925179475825,
+    "Time": 4.784666666666666,
+    "StdTime": 0.3833801420696344,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 86.91415648412584,
+    "StdScore": 10.44443327143824,
+    "Time": 13.456999999999999,
+    "StdTime": 3.43641688390684,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 65.44966191068121,
+    "StdScore": 10.37173504865524,
+    "Time": 15.174333333333333,
+    "StdTime": 1.4975000278241517,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 70.79901983551729,
+    "StdScore": 5.777956979179235,
+    "Time": 14.613,
+    "StdTime": 1.6431679768057796,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 74.64701609019059,
+    "StdScore": 3.771717613834424,
+    "Time": 10.485666666666667,
+    "StdTime": 0.35892942667512456,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 62.17863766236692,
+    "StdScore": 2.4064140515482237,
+    "Time": 4.186,
+    "StdTime": 1.6638626746219176,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 66.55603944134835,
+    "StdScore": 7.254914980676784,
+    "Time": 4.383333333333334,
+    "StdTime": 0.9997601378997532,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 75.46312595962327,
+    "StdScore": 5.760330391945788,
+    "Time": 2.907,
+    "StdTime": 0.4847421995246545,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 84.42627585152425,
+    "StdScore": 1.6020267297575383,
+    "Time": 13.703,
+    "StdTime": 4.272848347414169,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 86.16325064289903,
+    "StdScore": 2.7798471461683394,
+    "Time": 12.283999999999999,
+    "StdTime": 2.5290814538088724,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 83.46495255216585,
+    "StdScore": 2.057079962620004,
+    "Time": 4.227666666666667,
+    "StdTime": 0.9851504115277693,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 82.41607678592236,
+    "StdScore": 7.197633378318355,
+    "Time": 5.7283333333333335,
+    "StdTime": 1.2888275033274754,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 81.46022550769203,
+    "StdScore": 5.921022347403808,
+    "Time": 3.2476666666666665,
+    "StdTime": 0.8997534847575379,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 81.4607251508576,
+    "StdScore": 1.2238373851863815,
+    "Time": 7.2490000000000006,
+    "StdTime": 1.4398524229934122,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 79.90166922436994,
+    "StdScore": 3.6878796615435694,
+    "Time": 3.6906666666666665,
+    "StdTime": 0.7577448999058546,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 76.85268912259892,
+    "StdScore": 4.796522357654328,
+    "Time": 2.945,
+    "StdTime": 0.21869384993638938,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 72.10907235621855,
+    "StdScore": 7.504019420909161,
+    "Time": 2.305333333333333,
+    "StdTime": 0.020526405757787556,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 90.08650473282557,
+    "StdScore": 1.8467119900113642,
+    "Time": 2.175666666666667,
+    "StdTime": 0.4636230509080986,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 74.3669052765659,
+    "StdScore": 8.351196487850952,
+    "Time": 2.292333333333333,
+    "StdTime": 0.2018349160411383,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 83.28520291532135,
+    "StdScore": 4.343318935778685,
+    "Time": 5.920333333333334,
+    "StdTime": 0.6243086843327854,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 85.91329995951916,
+    "StdScore": 4.175724666387358,
+    "Time": 10.154666666666666,
+    "StdTime": 4.184078910983077,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 89.6942924741999,
+    "StdScore": 0.7280822661434858,
+    "Time": 6.26,
+    "StdTime": 0.8578152481741044,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 92.6840903342948,
+    "StdScore": 0.9103635691337302,
+    "Time": 6.622,
+    "StdTime": 1.7125737940304944,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 56.44430975666796,
+    "StdScore": 11.65943043600983,
+    "Time": 20.166666666666668,
+    "StdTime": 2.88134974158524,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 47.67749142226641,
+    "StdScore": 3.044762309986086,
+    "Time": 23.805333333333333,
+    "StdTime": 1.0254766371465178,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 46.624626337655805,
+    "StdScore": 10.163855037315601,
+    "Time": 14.705,
+    "StdTime": 1.8267323285035502,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 54.72610909896565,
+    "StdScore": 5.455239174863657,
+    "Time": 12.208333333333332,
+    "StdTime": 2.338730923670642,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 55.16023446939569,
+    "StdScore": 9.288337989043294,
+    "Time": 32.01233333333333,
+    "StdTime": 2.7488194435672426,
+    "Prompt": "Moderat",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 58.180863743835495,
+    "StdScore": 1.9386179173341018,
+    "Time": 8.458333333333332,
+    "StdTime": 5.0142329755739645,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 89.6791834003362,
+    "StdScore": 2.126884276839547,
+    "Time": 16.833666666666666,
+    "StdTime": 9.081452104885724,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 87.56729412949556,
+    "StdScore": 5.707746034249534,
+    "Time": 4.152333333333333,
+    "StdTime": 2.325794989532253,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 89.49093732130257,
+    "StdScore": 2.2567495928038492,
+    "Time": 28.246000000000002,
+    "StdTime": 11.766322407617428,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 67.39375341682387,
+    "StdScore": 11.134712779541886,
+    "Time": 11.317333333333334,
+    "StdTime": 0.4294139417081539,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 71.95779533088871,
+    "StdScore": 2.438672152153807,
+    "Time": 11.274666666666667,
+    "StdTime": 1.6943580888741707,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 70.84070930586608,
+    "StdScore": 12.999456811151992,
+    "Time": 7.0713333333333335,
+    "StdTime": 0.6751979956526332,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 63.15638899574675,
+    "StdScore": 11.41728924302646,
+    "Time": 4.844333333333333,
+    "StdTime": 0.58647961033043,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 74.6878830087725,
+    "StdScore": 4.322684694642384,
+    "Time": 12.883333333333333,
+    "StdTime": 1.6971435806475925,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 92.07831727301206,
+    "StdScore": 2.5032252442340304,
+    "Time": 15.618,
+    "StdTime": 1.5419964331995062,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 76.4070226758147,
+    "StdScore": 7.246452172864117,
+    "Time": 15.376333333333333,
+    "StdTime": 1.3587778822652856,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 74.68286292841945,
+    "StdScore": 8.27787116778035,
+    "Time": 13.382,
+    "StdTime": 1.3271092645294882,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 31.788233426017758,
+    "StdScore": 19.32238843911172,
+    "Time": 4.104,
+    "StdTime": 1.718906920109405,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 42.57715148385837,
+    "StdScore": 3.032393927191319,
+    "Time": 3.0500000000000003,
+    "StdTime": 0.07662245101796211,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 32.04770132070785,
+    "StdScore": 6.158392544455787,
+    "Time": 3.0523333333333333,
+    "StdTime": 0.4483462203847974,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 71.25187019261233,
+    "StdScore": 8.937373855292748,
+    "Time": 10.819333333333333,
+    "StdTime": 5.951691720287042,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 66.96311480282147,
+    "StdScore": 10.371163640077214,
+    "Time": 6.853,
+    "StdTime": 1.350269232412558,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 76.52074067871585,
+    "StdScore": 1.7188346023875973,
+    "Time": 5.744666666666666,
+    "StdTime": 2.449331609507649,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 72.54997786163347,
+    "StdScore": 5.691234537051046,
+    "Time": 3.7470000000000003,
+    "StdTime": 0.53942469353933,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 65.67768219198602,
+    "StdScore": 3.2761372856403836,
+    "Time": 3.2746666666666666,
+    "StdTime": 0.6029546693851315,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 61.678922459233966,
+    "StdScore": 4.34281723510789,
+    "Time": 6.864333333333333,
+    "StdTime": 0.24967445470719143,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 80.3534903932003,
+    "StdScore": 4.092712812801671,
+    "Time": 3.259333333333333,
+    "StdTime": 0.10529165842237131,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 64.92728672598068,
+    "StdScore": 8.89762491496577,
+    "Time": 2.7026666666666666,
+    "StdTime": 0.12328963189714441,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 60.48583327390392,
+    "StdScore": 12.305820594457522,
+    "Time": 2.1046666666666667,
+    "StdTime": 0.2907306886679378,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 58.121308909612196,
+    "StdScore": 13.07444605085991,
+    "Time": 2.1566666666666667,
+    "StdTime": 0.35522152712544525,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 61.13862378235301,
+    "StdScore": 6.062395594166991,
+    "Time": 2.3766666666666665,
+    "StdTime": 0.29922789531280886,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 67.31563298229764,
+    "StdScore": 8.280432573783626,
+    "Time": 9.961,
+    "StdTime": 0.91217268102043,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 67.84406632453319,
+    "StdScore": 4.662998184632791,
+    "Time": 14.764333333333333,
+    "StdTime": 8.188685018568815,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 76.5465990063309,
+    "StdScore": 0.7110497586989576,
+    "Time": 9.086333333333334,
+    "StdTime": 0.2840938811965744,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 76.82193338846811,
+    "StdScore": 2.2203044929655604,
+    "Time": 8.500333333333334,
+    "StdTime": 0.4544021713563151,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 31.361967525617313,
+    "StdScore": 9.711993813684986,
+    "Time": 21.860666666666667,
+    "StdTime": 1.036211046714584,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 43.142071626542894,
+    "StdScore": 6.533427805287702,
+    "Time": 22.475333333333335,
+    "StdTime": 4.39066536339691,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 50.184625089882736,
+    "StdScore": 2.4623081911015925,
+    "Time": 11.388333333333334,
+    "StdTime": 2.0593737721291236,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 31.27332470513026,
+    "StdScore": 5.916229215294664,
+    "Time": 13.622333333333334,
+    "StdTime": 1.1213604832226496,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 19.461309303035005,
+    "StdScore": 5.209211456527676,
+    "Time": 37.251666666666665,
+    "StdTime": 4.838210860776258,
+    "Prompt": "Moderat",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 93.17634959657089,
+    "StdScore": 1.2065976306738533,
+    "Time": 13.420666666666667,
+    "StdTime": 0.6238407916554782,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 89.02466542980027,
+    "StdScore": 8.218033274990784,
+    "Time": 14.487333333333334,
+    "StdTime": 5.339075700281213,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 94.4179821228537,
+    "StdScore": 0.7103697118379702,
+    "Time": 64.61866666666667,
+    "StdTime": 50.68151945564905,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 93.96413784696847,
+    "StdScore": 1.5928083991717943,
+    "Time": 2.6063333333333336,
+    "StdTime": 0.9191987452848994,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 82.72055947606472,
+    "StdScore": 7.937063926910494,
+    "Time": 9.02,
+    "StdTime": 0.43184719519756043,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 94.23303518719902,
+    "StdScore": 0.3082467364657331,
+    "Time": 9.319,
+    "StdTime": 0.810238853672175,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 94.0009848013817,
+    "StdScore": 0.618951251887205,
+    "Time": 9.684,
+    "StdTime": 2.4065475270602907,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 89.6847996671787,
+    "StdScore": 4.479502598402256,
+    "Time": 4.276666666666667,
+    "StdTime": 0.5126639575134314,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 90.19388458960917,
+    "StdScore": 4.312998954511925,
+    "Time": 13.718666666666667,
+    "StdTime": 1.4135842151542777,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 93.94477313807603,
+    "StdScore": 1.0982508593851485,
+    "Time": 15.839666666666666,
+    "StdTime": 2.5168902108223423,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 95.05240370546579,
+    "StdScore": 0.719211080833779,
+    "Time": 13.515,
+    "StdTime": 1.3469146223870314,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 92.78816542326433,
+    "StdScore": 2.0129290879977684,
+    "Time": 12.615,
+    "StdTime": 1.0431006662829814,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 42.76087864391102,
+    "StdScore": 8.084171390021242,
+    "Time": 4.4719999999999995,
+    "StdTime": 0.3308458855721198,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 46.00485686964694,
+    "StdScore": 8.123855733381449,
+    "Time": 3.029,
+    "StdTime": 0.2234636435754148,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 39.09811520804484,
+    "StdScore": 10.240409311607808,
+    "Time": 2.5166666666666666,
+    "StdTime": 0.0834645633387806,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 95.29017914591589,
+    "StdScore": 1.1990293014645126,
+    "Time": 15.217666666666666,
+    "StdTime": 5.851378754903269,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 87.03458905759945,
+    "StdScore": 5.97479186840277,
+    "Time": 10.616999999999999,
+    "StdTime": 2.8925172428180956,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 93.78456596471813,
+    "StdScore": 1.906877027568538,
+    "Time": 7.361,
+    "StdTime": 0.9346983470617672,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 87.596014139369,
+    "StdScore": 7.909942017111062,
+    "Time": 4.521333333333334,
+    "StdTime": 0.3008809288295507,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 80.61017308221267,
+    "StdScore": 9.65908153799397,
+    "Time": 4.5263333333333335,
+    "StdTime": 1.9747752614749186,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 93.47549871498934,
+    "StdScore": 1.4665846556052613,
+    "Time": 7.882,
+    "StdTime": 0.9995183840230251,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 89.26678530014871,
+    "StdScore": 7.037973673452051,
+    "Time": 2.7706666666666666,
+    "StdTime": 0.22839950379397359,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 87.32927857962552,
+    "StdScore": 0.883971144283308,
+    "Time": 3.425666666666667,
+    "StdTime": 0.8106431602951656,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 73.6946745750521,
+    "StdScore": 6.947742659692207,
+    "Time": 2.251333333333333,
+    "StdTime": 0.12491730598012948,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 80.6725475314111,
+    "StdScore": 8.902199223216977,
+    "Time": 2.373666666666667,
+    "StdTime": 0.675432700817286,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 90.69068061426309,
+    "StdScore": 6.757840959572416,
+    "Time": 2.261,
+    "StdTime": 0.08314445261110338,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 87.20582209768007,
+    "StdScore": 1.477082785890797,
+    "Time": 7.0520000000000005,
+    "StdTime": 2.886352542569947,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 87.18546459572595,
+    "StdScore": 3.1057266842034514,
+    "Time": 7.3806666666666665,
+    "StdTime": 2.3229641265704757,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 88.49094168893653,
+    "StdScore": 2.901986760800822,
+    "Time": 7.4976666666666665,
+    "StdTime": 0.032624121954978894,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 87.3642081994852,
+    "StdScore": 0.7335931063789056,
+    "Time": 7.799333333333333,
+    "StdTime": 1.8380305583241359,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 64.73057846526683,
+    "StdScore": 9.131955421292359,
+    "Time": 20.877,
+    "StdTime": 1.5477037830282636,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 51.867919932194,
+    "StdScore": 3.7017305289326403,
+    "Time": 19.796666666666667,
+    "StdTime": 0.23781155004190482,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 51.27157645933055,
+    "StdScore": 21.008665501018033,
+    "Time": 13.783666666666667,
+    "StdTime": 2.728274240858739,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 40.21147263185519,
+    "StdScore": 6.2945314792819245,
+    "Time": 16.367,
+    "StdTime": 0.31675858315126965,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 54.468002560063034,
+    "StdScore": 11.937722153240214,
+    "Time": 35.84766666666667,
+    "StdTime": 3.8682924312069966,
+    "Prompt": "Moderat",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 92.4466604253318,
+    "StdScore": 3.8461734360557807,
+    "Time": 20.833666666666666,
+    "StdTime": 0.6971687983073627,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 81.64360388127575,
+    "StdScore": 10.748692055375818,
+    "Time": 10.610333333333333,
+    "StdTime": 5.595074649487112,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 86.54685657791092,
+    "StdScore": 6.714396899309372,
+    "Time": 73.61099999999999,
+    "StdTime": 48.507408001252756,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 81.19698552424232,
+    "StdScore": 2.842864740859804,
+    "Time": 1.847,
+    "StdTime": 0.2718400264861671,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 71.74552332681864,
+    "StdScore": 12.616137266568785,
+    "Time": 10.296666666666667,
+    "StdTime": 1.0597152133159797,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 81.193646281345,
+    "StdScore": 1.2161585229778673,
+    "Time": 11.818666666666667,
+    "StdTime": 0.5105470921798833,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 80.78453566613732,
+    "StdScore": 2.7922656103644834,
+    "Time": 9.430333333333333,
+    "StdTime": 1.6716555665965802,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 82.02958650034455,
+    "StdScore": 11.134732725232347,
+    "Time": 5.164666666666666,
+    "StdTime": 0.3798477765280895,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 84.51117064543485,
+    "StdScore": 2.7827395676914537,
+    "Time": 13.334333333333333,
+    "StdTime": 1.6201025687694386,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 83.65476849296262,
+    "StdScore": 8.384428730174262,
+    "Time": 14.253333333333334,
+    "StdTime": 1.2526070147230268,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 86.52416843638387,
+    "StdScore": 1.192491127849906,
+    "Time": 15.237666666666668,
+    "StdTime": 0.7654896036742329,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 72.23425852904666,
+    "StdScore": 9.278616157006171,
+    "Time": 13.339,
+    "StdTime": 2.0526331869089525,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 68.82468813366992,
+    "StdScore": 2.23043943764374,
+    "Time": 4.743666666666667,
+    "StdTime": 1.9233409300832063,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 64.36921833235728,
+    "StdScore": 13.67221530295578,
+    "Time": 3.990666666666667,
+    "StdTime": 1.2508178657715652,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 69.33367129134793,
+    "StdScore": 11.055124264199382,
+    "Time": 3.6326666666666667,
+    "StdTime": 1.749721787408882,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 88.46960233607157,
+    "StdScore": 2.9953831965871043,
+    "Time": 12.424000000000001,
+    "StdTime": 3.3693808036492405,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 79.04400276014519,
+    "StdScore": 9.248265835984693,
+    "Time": 8.109666666666667,
+    "StdTime": 1.3330661398945416,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 75.97102494148001,
+    "StdScore": 9.699068906655405,
+    "Time": 7.572333333333334,
+    "StdTime": 2.525451312801998,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 80.37890488477436,
+    "StdScore": 7.4276655621829,
+    "Time": 3.9553333333333334,
+    "StdTime": 1.0631017511665257,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 84.79883191673888,
+    "StdScore": 7.840578994698803,
+    "Time": 3.066,
+    "StdTime": 0.6797617229588615,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 77.47635484226113,
+    "StdScore": 8.142904127568698,
+    "Time": 8.065666666666667,
+    "StdTime": 0.5493253437930327,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 80.95872419069512,
+    "StdScore": 9.236895117940412,
+    "Time": 3.465,
+    "StdTime": 0.12079735096433189,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 80.15996962414049,
+    "StdScore": 13.27485164823579,
+    "Time": 3.2443333333333335,
+    "StdTime": 0.5205865281903992,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 68.53328643801487,
+    "StdScore": 12.672806281539112,
+    "Time": 2.354,
+    "StdTime": 0.14636597965374315,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 73.38765603967191,
+    "StdScore": 1.8086302435955612,
+    "Time": 3.584,
+    "StdTime": 1.1651956917187773,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 68.6447961343415,
+    "StdScore": 12.793729205287882,
+    "Time": 2.731,
+    "StdTime": 0.572034089893251,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 82.80141617630527,
+    "StdScore": 2.587970968109786,
+    "Time": 6.711333333333333,
+    "StdTime": 0.4677449447437499,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 76.75247722066223,
+    "StdScore": 2.8832748266343904,
+    "Time": 15.524333333333333,
+    "StdTime": 14.173066864067682,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 85.21092016803128,
+    "StdScore": 4.070872497052897,
+    "Time": 7.673333333333333,
+    "StdTime": 1.207618041159262,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 82.64235104301221,
+    "StdScore": 3.4378262694822004,
+    "Time": 9.400333333333332,
+    "StdTime": 1.4283995706150756,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 45.44366090185673,
+    "StdScore": 12.311144444666237,
+    "Time": 21.244333333333334,
+    "StdTime": 1.3575110803722135,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 61.39556053100482,
+    "StdScore": 2.011987596978767,
+    "Time": 24.043333333333333,
+    "StdTime": 1.8664301040578344,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 38.65191357555006,
+    "StdScore": 8.315443045807704,
+    "Time": 14.816333333333333,
+    "StdTime": 0.5962762223444206,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 52.53864723142715,
+    "StdScore": 3.428604456904469,
+    "Time": 17.172666666666665,
+    "StdTime": 0.9432551793302449,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 69.43378136101788,
+    "StdScore": 7.875059906121035,
+    "Time": 36.465333333333334,
+    "StdTime": 5.6486208346226725,
+    "Prompt": "Komplex",
+    "Text": "Beh\u00f6rdentext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 77.63478601309582,
+    "StdScore": 15.01084464955821,
+    "Time": 27.86,
+    "StdTime": 15.5789851081513,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 68.60014434839137,
+    "StdScore": 20.159662475600335,
+    "Time": 24.275666666666666,
+    "StdTime": 11.327173095407932,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 94.31623266363022,
+    "StdScore": 0.9307930066284588,
+    "Time": 119.62266666666666,
+    "StdTime": 59.253025790531005,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 81.41600453294967,
+    "StdScore": 13.694510448605389,
+    "Time": 6.054333333333333,
+    "StdTime": 5.47108621146965,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 60.301689355862806,
+    "StdScore": 4.608780652344522,
+    "Time": 12.039,
+    "StdTime": 4.226578166791666,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 64.42966743070392,
+    "StdScore": 5.692820239175873,
+    "Time": 12.829666666666666,
+    "StdTime": 1.000322614626568,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 58.19715253350923,
+    "StdScore": 12.955578224257785,
+    "Time": 8.486333333333333,
+    "StdTime": 0.38917134187056107,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 45.12868764635797,
+    "StdScore": 7.428865474914974,
+    "Time": 5.442333333333333,
+    "StdTime": 0.33595287367923127,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 67.80344616116074,
+    "StdScore": 16.21771317889585,
+    "Time": 12.359666666666666,
+    "StdTime": 1.2796524267680396,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 74.9060133833064,
+    "StdScore": 3.653419812640554,
+    "Time": 17.735,
+    "StdTime": 2.671360514793913,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 80.4339496119433,
+    "StdScore": 3.091803156383049,
+    "Time": 18.457,
+    "StdTime": 0.8430059311772372,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 72.13124306425071,
+    "StdScore": 4.8713522485881615,
+    "Time": 14.433666666666666,
+    "StdTime": 0.3857775697644086,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 29.66586671836672,
+    "StdScore": 8.684079964949541,
+    "Time": 6.096,
+    "StdTime": 1.5110622091760486,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 32.46367139458591,
+    "StdScore": 5.096129668235995,
+    "Time": 4.607,
+    "StdTime": 0.44203054193121066,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 32.609910356261615,
+    "StdScore": 7.522479237498871,
+    "Time": 4.12,
+    "StdTime": 2.379077762495375,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 74.44807870276146,
+    "StdScore": 4.882408550703563,
+    "Time": 11.417666666666667,
+    "StdTime": 1.045454127799653,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 59.910138908039116,
+    "StdScore": 3.0414361894422166,
+    "Time": 8.147333333333334,
+    "StdTime": 0.6720248011296404,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 73.24408125556619,
+    "StdScore": 10.143745517049139,
+    "Time": 4.709333333333333,
+    "StdTime": 0.683816008392121,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 70.46292299718053,
+    "StdScore": 11.209981897003567,
+    "Time": 5.492666666666667,
+    "StdTime": 1.4524146561272828,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 71.06792129120574,
+    "StdScore": 6.01903638552371,
+    "Time": 3.029,
+    "StdTime": 0.49599294349819123,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 58.504637288167494,
+    "StdScore": 12.385044911859993,
+    "Time": 6.365333333333333,
+    "StdTime": 0.4875452115787141,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 81.22078549197907,
+    "StdScore": 6.399034673650445,
+    "Time": 6.020333333333333,
+    "StdTime": 1.9564473755594183,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 67.43581748508757,
+    "StdScore": 2.0702156173685258,
+    "Time": 2.6446666666666667,
+    "StdTime": 0.34329190688586486,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 69.07371978360477,
+    "StdScore": 6.686274555072912,
+    "Time": 2.072,
+    "StdTime": 0.08031811750782004,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 40.05472339939232,
+    "StdScore": 11.907628118500094,
+    "Time": 2.5406666666666666,
+    "StdTime": 0.6863485509078702,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 55.90031478200635,
+    "StdScore": 14.471806791149406,
+    "Time": 2.5,
+    "StdTime": 0.43808560807221225,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 68.38580139554426,
+    "StdScore": 14.007562174023446,
+    "Time": 14.638333333333334,
+    "StdTime": 9.562757464943537,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 66.41420821076238,
+    "StdScore": 8.440549971851635,
+    "Time": 9.599333333333334,
+    "StdTime": 1.7548716002412632,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 64.75664034332766,
+    "StdScore": 3.3702401162795153,
+    "Time": 9.873333333333333,
+    "StdTime": 3.508370324428898,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 64.70939797005013,
+    "StdScore": 10.44704499973043,
+    "Time": 9.017333333333333,
+    "StdTime": 2.0236109639289204,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 26.133827836737012,
+    "StdScore": 5.238640918426513,
+    "Time": 22.114,
+    "StdTime": 1.28471475433265,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 23.946962659992924,
+    "StdScore": 7.736771769724905,
+    "Time": 24.603,
+    "StdTime": 2.056531789202395,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 27.82052996223988,
+    "StdScore": 13.001409210637702,
+    "Time": 15.375333333333334,
+    "StdTime": 2.751359179266374,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 38.26026799178141,
+    "StdScore": 14.542386073369823,
+    "Time": 14.605333333333332,
+    "StdTime": 1.3101688186387785,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 21.669320359199972,
+    "StdScore": 10.766083876672997,
+    "Time": 43.016,
+    "StdTime": 2.9437330041972216,
+    "Prompt": "Komplex",
+    "Text": "Sachtext"
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "GeneralScore": 78.69496134392708,
+    "StdScore": 11.470903835357056,
+    "Time": 20.721666666666664,
+    "StdTime": 5.942053881725858,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "GeneralScore": 55.4255853402867,
+    "StdScore": 5.989154399672518,
+    "Time": 11.517,
+    "StdTime": 10.170026696130153,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "GeneralScore": 93.07002828670214,
+    "StdScore": 1.888109031486048,
+    "Time": 95.11766666666666,
+    "StdTime": 112.49910381124523,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "GeneralScore": 81.20018385507939,
+    "StdScore": 15.946819290457812,
+    "Time": 2.66,
+    "StdTime": 1.0047332979452808,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "GeneralScore": 80.55247025313017,
+    "StdScore": 6.437238735192031,
+    "Time": 11.082666666666666,
+    "StdTime": 2.9675087756118486,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-6",
+    "GeneralScore": 93.88633328951082,
+    "StdScore": 1.6400615188239276,
+    "Time": 10.743,
+    "StdTime": 0.7837148716210501,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "GeneralScore": 93.42521729969471,
+    "StdScore": 1.3219204810931673,
+    "Time": 10.021666666666667,
+    "StdTime": 0.7679852429137777,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "GeneralScore": 72.66282956483728,
+    "StdScore": 10.654355224684753,
+    "Time": 5.5473333333333334,
+    "StdTime": 0.3001755042193373,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "GeneralScore": 90.9477961136325,
+    "StdScore": 5.7790857178090524,
+    "Time": 14.929,
+    "StdTime": 0.4298732371292723,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "GeneralScore": 90.26913588385024,
+    "StdScore": 0.34776994609308753,
+    "Time": 17.473,
+    "StdTime": 2.1304337586510402,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "GeneralScore": 91.96371151193665,
+    "StdScore": 2.308732665510845,
+    "Time": 16.428,
+    "StdTime": 1.4179989421716783,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "GeneralScore": 90.12367306367099,
+    "StdScore": 3.057715559418026,
+    "Time": 17.429666666666666,
+    "StdTime": 4.587815856519673,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "GeneralScore": 37.146859650964835,
+    "StdScore": 11.562710472807296,
+    "Time": 5.429333333333333,
+    "StdTime": 2.1059829850531395,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "GeneralScore": 47.58850310903089,
+    "StdScore": 8.579104647268677,
+    "Time": 3.982666666666667,
+    "StdTime": 0.7915455345925041,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "GeneralScore": 44.00702066369101,
+    "StdScore": 9.01657282004692,
+    "Time": 4.091333333333333,
+    "StdTime": 1.1474080936324849,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4",
+    "GeneralScore": 89.24089628297774,
+    "StdScore": 7.941086500313853,
+    "Time": 11.660666666666668,
+    "StdTime": 3.408233902380136,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4-turbo",
+    "GeneralScore": 75.63260394860377,
+    "StdScore": 1.8609679515437285,
+    "Time": 21.319,
+    "StdTime": 8.34162957700712,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1",
+    "GeneralScore": 94.18815934828395,
+    "StdScore": 0.8763727509185587,
+    "Time": 9.984333333333334,
+    "StdTime": 2.075572772353052,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "GeneralScore": 92.52903736135775,
+    "StdScore": 2.8625035018470157,
+    "Time": 5.609,
+    "StdTime": 1.3198117289977385,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "GeneralScore": 84.24651173672255,
+    "StdScore": 6.396415806708471,
+    "Time": 4.041333333333333,
+    "StdTime": 0.9687983966405671,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4",
+    "GeneralScore": 83.04347049348874,
+    "StdScore": 1.7247611331932367,
+    "Time": 7.704666666666666,
+    "StdTime": 1.1207039454438152,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4-nano",
+    "GeneralScore": 86.07080113835669,
+    "StdScore": 7.556922549254262,
+    "Time": 3.584,
+    "StdTime": 0.9849345155897421,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "GeneralScore": 87.4581189633128,
+    "StdScore": 5.631281700910089,
+    "Time": 3.491,
+    "StdTime": 0.7840510187481424,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-latest",
+    "GeneralScore": 76.20104711241105,
+    "StdScore": 10.337450904468836,
+    "Time": 2.381666666666667,
+    "StdTime": 0.05804595880277388,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-2506",
+    "GeneralScore": 87.89170743630997,
+    "StdScore": 11.181645409906757,
+    "Time": 3.795,
+    "StdTime": 1.2291008908954546,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-small-2409",
+    "GeneralScore": 78.94972504495512,
+    "StdScore": 3.033795328592436,
+    "Time": 12.106333333333334,
+    "StdTime": 16.01602904384646,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-medium-latest",
+    "GeneralScore": 76.97230551181272,
+    "StdScore": 6.389798391564932,
+    "Time": 7.7669999999999995,
+    "StdTime": 1.106817058054311,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-medium-2508",
+    "GeneralScore": 75.42999665055574,
+    "StdScore": 4.185240200496118,
+    "Time": 15.600333333333333,
+    "StdTime": 13.452923151989435,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-large-latest",
+    "GeneralScore": 87.0979250489075,
+    "StdScore": 0.21435793348345472,
+    "Time": 7.702,
+    "StdTime": 0.5783571560895567,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "mistral-large-2512",
+    "GeneralScore": 86.55361609930576,
+    "StdScore": 5.303206192276536,
+    "Time": 7.395666666666667,
+    "StdTime": 0.34753033440742026,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "qwen2:7b",
+    "GeneralScore": 54.62679510062331,
+    "StdScore": 5.761887932757987,
+    "Time": 20.758,
+    "StdTime": 0.4935139309077306,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "llama3:8b",
+    "GeneralScore": 51.839723183017355,
+    "StdScore": 4.832489945875251,
+    "Time": 23.139333333333333,
+    "StdTime": 0.5009334619820611,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "phi3:mini",
+    "GeneralScore": 46.704618114944694,
+    "StdScore": 16.251254531195645,
+    "Time": 20.395,
+    "StdTime": 3.5288002210383067,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "gemma:7b",
+    "GeneralScore": 41.16226258198753,
+    "StdScore": 7.645502906408236,
+    "Time": 17.182333333333332,
+    "StdTime": 1.171522229124712,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  },
+  {
+    "model": "nous-hermes2",
+    "GeneralScore": 62.46081781176457,
+    "StdScore": 6.559329502929167,
+    "Time": 43.79633333333333,
+    "StdTime": 10.553874043844438,
+    "Prompt": "Komplex",
+    "Text": "Alltagstext"
+  }
+]

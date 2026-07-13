@@ -1,0 +1,41 @@
+{
+  "ChatGPT": [
+    "gpt-3.5-turbo",
+    "gpt-3.5-turbo-0125",
+    "gpt-3.5-turbo-1106",
+    "gpt-4",
+    "gpt-4-turbo",
+    "gpt-4.1",
+    "gpt-4.1-mini",
+    "gpt-4.1-nano",
+    "gpt-5.4",
+    "gpt-5.4-nano",
+    "gpt-5.4-mini"
+  ],
+  "Claude": [
+    "claude-sonnet-4-6",
+    "claude-opus-4-6",
+    "claude-opus-4-5-20251101",
+    "claude-haiku-4-5-20251001",
+    "claude-sonnet-4-5-20250929",
+    "claude-opus-4-1-20250805",
+    "claude-opus-4-20250514",
+    "claude-sonnet-4-20250514"
+  ],
+  "Gemini": [
+    "gemini-2.5-flash",
+    "gemini-2.5-flash-lite",
+    "gemini-3-flash-preview",
+    "gemini-3.1-flash-lite"
+  ],
+  "Mistral": [
+    "mistral-small-latest",
+    "mistral-small-2506",
+    "mistral-small-2409",
+    "mistral-medium-latest",
+    "mistral-medium-2508",
+    "mistral-large-latest",
+    "mistral-large-2512"
+  ],
+  "Ollama": ["qwen2:7b", "llama3:8b", "phi3:mini", "gemma:7b", "nous-hermes2"]
+}

@@ -1,0 +1,37 @@
+Was ist Generative KI?
+Hallo. Ich erkläre dir Generative KI.
+Das ist eine Art von Künstlicher Intelligenz. 
+Sie macht neue Dinge. 
+Sie macht zum Beispiel neue Daten. 
+Sie macht neue Bilder. 
+Sie macht neue Texte.
+Dafür nutzt die KI Computer-Programme.
+Andere Künstliche Intelligenz prüft Daten. 
+Sie findet Infos in Daten. 
+Generative KI macht aber neue Sachen.
+Die KI lernt, wie Daten aussehen. 
+Sie lernt, wie sie neue Daten machen kann. 
+Das nennt man Maschinelles Lernen.
+Der Computer lernt also selbst. 
+Die Programme lernen. 
+Sie sehen sich viele Daten an. 
+Sie suchen nach Dingen, die zusammenpassen.
+Wenn die KI fertig gelernt hat, kann sie neue Daten machen. 
+Diese Daten hat vorher noch niemand gesehen.
+Generative KI kann zum Beispiel Kunst machen. 
+Sie kann Texte schreiben. 
+Das macht zum Beispiel ChatGPT. 
+Sie kann Bilder machen, die echt aussehen. 
+Sie kann auch virtuelle Welten machen.
+Generative KI kann viel verändern. 
+Sie zeigt neue Arten, wie man Dinge machen kann. 
+Das ist wichtig für viele Firmen.
+Aber es gibt auch Sorgen. 
+Man kann die KI falsch nutzen. 
+Man kann damit zum Beispiel gefälschte Inhalte machen. 
+Das können Bilder oder Texte sein, die nicht stimmen.
+Man kann damit auch Videos machen, die nicht echt sind. 
+Diese nennt man Deepfake-Videos.
+Wir müssen die Gefahren der KI verstehen. 
+Wir müssen auch überlegen, wie wir die KI gut nutzen können.
+Nur so können wir die KI sicher und richtig nutzen.

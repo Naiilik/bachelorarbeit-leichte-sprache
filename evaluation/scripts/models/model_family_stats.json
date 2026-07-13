@@ -1,0 +1,227 @@
+{
+  "Gemini": {
+    "model_count": 4,
+    "average_score": 83.6179,
+    "best_score": 88.8311,
+    "worst_score": 74.6127,
+    "average_time_s": 22.3835,
+    "best_model": "gemini-3-flash-preview",
+    "models": [
+      {
+        "model": "gemini-3-flash-preview",
+        "average_general_score": 88.8311,
+        "average_time": 53.8901
+      },
+      {
+        "model": "gemini-2.5-flash",
+        "average_general_score": 86.6935,
+        "average_time": 19.4754
+      },
+      {
+        "model": "gemini-3.1-flash-lite",
+        "average_general_score": 84.3341,
+        "average_time": 3.2828
+      },
+      {
+        "model": "gemini-2.5-flash-lite",
+        "average_general_score": 74.6127,
+        "average_time": 12.8859
+      }
+    ]
+  },
+  "GPT": {
+    "model_count": 11,
+    "average_score": 71.9073,
+    "best_score": 84.482,
+    "worst_score": 48.8612,
+    "average_time_s": 6.0232,
+    "best_model": "gpt-5.4-nano",
+    "models": [
+      {
+        "model": "gpt-5.4-nano",
+        "average_general_score": 84.482,
+        "average_time": 3.9445
+      },
+      {
+        "model": "gpt-4",
+        "average_general_score": 84.0062,
+        "average_time": 12.4343
+      },
+      {
+        "model": "gpt-4.1",
+        "average_general_score": 82.7442,
+        "average_time": 5.935
+      },
+      {
+        "model": "gpt-4.1-mini",
+        "average_general_score": 79.9263,
+        "average_time": 5.3912
+      },
+      {
+        "model": "gpt-5.4",
+        "average_general_score": 78.5374,
+        "average_time": 6.7656
+      },
+      {
+        "model": "gpt-4.1-nano",
+        "average_general_score": 78.1157,
+        "average_time": 3.8887
+      },
+      {
+        "model": "gpt-5.4-mini",
+        "average_general_score": 77.3365,
+        "average_time": 3.8337
+      },
+      {
+        "model": "gpt-4-turbo",
+        "average_general_score": 76.3587,
+        "average_time": 10.7988
+      },
+      {
+        "model": "gpt-3.5-turbo-0125",
+        "average_general_score": 50.8653,
+        "average_time": 4.7246
+      },
+      {
+        "model": "gpt-3.5-turbo-1106",
+        "average_general_score": 49.7472,
+        "average_time": 3.5313
+      },
+      {
+        "model": "gpt-3.5-turbo",
+        "average_general_score": 48.8612,
+        "average_time": 5.008
+      }
+    ]
+  },
+  "Claude": {
+    "model_count": 8,
+    "average_score": 81.4273,
+    "best_score": 85.0684,
+    "worst_score": 76.3728,
+    "average_time_s": 10.8708,
+    "best_model": "claude-opus-4-20250514",
+    "models": [
+      {
+        "model": "claude-opus-4-20250514",
+        "average_general_score": 85.0684,
+        "average_time": 14.156
+      },
+      {
+        "model": "claude-opus-4-1-20250805",
+        "average_general_score": 83.9083,
+        "average_time": 14.7003
+      },
+      {
+        "model": "claude-opus-4-5-20251101",
+        "average_general_score": 83.6838,
+        "average_time": 8.6046
+      },
+      {
+        "model": "claude-sonnet-4-5-20250929",
+        "average_general_score": 82.6106,
+        "average_time": 12.6972
+      },
+      {
+        "model": "claude-opus-4-6",
+        "average_general_score": 81.7108,
+        "average_time": 10.2104
+      },
+      {
+        "model": "claude-sonnet-4-20250514",
+        "average_general_score": 81.1009,
+        "average_time": 11.983
+      },
+      {
+        "model": "claude-haiku-4-5-20251001",
+        "average_general_score": 76.9624,
+        "average_time": 4.7564
+      },
+      {
+        "model": "claude-sonnet-4-6",
+        "average_general_score": 76.3728,
+        "average_time": 9.8589
+      }
+    ]
+  },
+  "Mistral": {
+    "model_count": 7,
+    "average_score": 75.4129,
+    "best_score": 80.2884,
+    "worst_score": 70.0668,
+    "average_time_s": 6.3219,
+    "best_model": "mistral-large-latest",
+    "models": [
+      {
+        "model": "mistral-large-latest",
+        "average_general_score": 80.2884,
+        "average_time": 7.2657
+      },
+      {
+        "model": "mistral-large-2512",
+        "average_general_score": 80.0186,
+        "average_time": 7.5462
+      },
+      {
+        "model": "mistral-medium-2508",
+        "average_general_score": 76.4749,
+        "average_time": 10.4916
+      },
+      {
+        "model": "mistral-medium-latest",
+        "average_general_score": 75.6401,
+        "average_time": 7.8437
+      },
+      {
+        "model": "mistral-small-2506",
+        "average_general_score": 73.4896,
+        "average_time": 5.4854
+      },
+      {
+        "model": "mistral-small-2409",
+        "average_general_score": 71.912,
+        "average_time": 3.381
+      },
+      {
+        "model": "mistral-small-latest",
+        "average_general_score": 70.0668,
+        "average_time": 2.2399
+      }
+    ]
+  },
+  "Ollama": {
+    "model_count": 5,
+    "average_score": 46.1842,
+    "best_score": 49.3079,
+    "worst_score": 43.4562,
+    "average_time_s": 22.0873,
+    "best_model": "qwen2:7b",
+    "models": [
+      {
+        "model": "qwen2:7b",
+        "average_general_score": 49.3079,
+        "average_time": 20.8899
+      },
+      {
+        "model": "llama3:8b",
+        "average_general_score": 47.8066,
+        "average_time": 22.3639
+      },
+      {
+        "model": "nous-hermes2",
+        "average_general_score": 45.6832,
+        "average_time": 37.4738
+      },
+      {
+        "model": "gemma:7b",
+        "average_general_score": 44.6668,
+        "average_time": 15.2109
+      },
+      {
+        "model": "phi3:mini",
+        "average_general_score": 43.4562,
+        "average_time": 14.4981
+      }
+    ]
+  }
+}

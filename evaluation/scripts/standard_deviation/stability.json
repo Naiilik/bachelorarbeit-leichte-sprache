@@ -1,0 +1,212 @@
+[
+  {
+    "model": "gpt-5.4-nano",
+    "overall_general_score_mean": 84.48196503718779,
+    "overall_general_score_std": 4.46951533601751,
+    "value_count": 9
+  },
+  {
+    "model": "gemini-3.1-flash-lite",
+    "overall_general_score_mean": 84.33414482120219,
+    "overall_general_score_std": 5.930208434525474,
+    "value_count": 9
+  },
+  {
+    "model": "gemini-3-flash-preview",
+    "overall_general_score_mean": 88.83112994181643,
+    "overall_general_score_std": 5.974853981277154,
+    "value_count": 9
+  },
+  {
+    "model": "gemini-2.5-flash",
+    "overall_general_score_mean": 86.69348531400946,
+    "overall_general_score_std": 6.004284149422172,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-4.1-mini",
+    "overall_general_score_mean": 79.92628475131237,
+    "overall_general_score_std": 7.150454308813563,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-4.1-nano",
+    "overall_general_score_mean": 78.11572814860997,
+    "overall_general_score_std": 7.333854215604588,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-5.4-mini",
+    "overall_general_score_mean": 77.33649024376328,
+    "overall_general_score_std": 8.109021504980895,
+    "value_count": 9
+  },
+  {
+    "model": "phi3:mini",
+    "overall_general_score_mean": 43.45623684836855,
+    "overall_general_score_std": 8.150910438506124,
+    "value_count": 9
+  },
+  {
+    "model": "claude-sonnet-4-6",
+    "overall_general_score_mean": 76.37282519153354,
+    "overall_general_score_std": 8.156279208747712,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-4",
+    "overall_general_score_mean": 84.00619119319668,
+    "overall_general_score_std": 8.371956734292777,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-small-latest",
+    "overall_general_score_mean": 70.0668340486768,
+    "overall_general_score_std": 8.404822825557229,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-large-latest",
+    "overall_general_score_mean": 80.2884041946156,
+    "overall_general_score_std": 8.613568774646955,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-4.1",
+    "overall_general_score_mean": 82.74415798764294,
+    "overall_general_score_std": 8.63915695748413,
+    "value_count": 9
+  },
+  {
+    "model": "claude-opus-4-20250514",
+    "overall_general_score_mean": 85.0684234062127,
+    "overall_general_score_std": 8.907589972807322,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-medium-2508",
+    "overall_general_score_mean": 76.4748631371882,
+    "overall_general_score_std": 8.921772727825871,
+    "value_count": 9
+  },
+  {
+    "model": "claude-sonnet-4-20250514",
+    "overall_general_score_mean": 81.10088463260756,
+    "overall_general_score_std": 9.026267691273455,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-large-2512",
+    "overall_general_score_mean": 80.0185729290128,
+    "overall_general_score_std": 9.443421277821367,
+    "value_count": 9
+  },
+  {
+    "model": "gemma:7b",
+    "overall_general_score_mean": 44.6668067998091,
+    "overall_general_score_std": 9.508770322482722,
+    "value_count": 9
+  },
+  {
+    "model": "claude-sonnet-4-5-20250929",
+    "overall_general_score_mean": 82.61059702832455,
+    "overall_general_score_std": 9.657325768610514,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-4-turbo",
+    "overall_general_score_mean": 76.35871033098653,
+    "overall_general_score_std": 10.117713402001444,
+    "value_count": 9
+  },
+  {
+    "model": "claude-opus-4-1-20250805",
+    "overall_general_score_mean": 83.90830278022698,
+    "overall_general_score_std": 10.358587750135905,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-small-2409",
+    "overall_general_score_mean": 71.91198787742302,
+    "overall_general_score_std": 10.459944627993238,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-medium-latest",
+    "overall_general_score_mean": 75.64008932226692,
+    "overall_general_score_std": 10.52648830391256,
+    "value_count": 9
+  },
+  {
+    "model": "llama3:8b",
+    "overall_general_score_mean": 47.806611762216605,
+    "overall_general_score_std": 10.929883690770438,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "overall_general_score_mean": 50.86531260400203,
+    "overall_general_score_std": 12.125496283472383,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-5.4",
+    "overall_general_score_mean": 78.5373886674991,
+    "overall_general_score_std": 12.248403430272159,
+    "value_count": 9
+  },
+  {
+    "model": "claude-opus-4-5-20251101",
+    "overall_general_score_mean": 83.68377850875403,
+    "overall_general_score_std": 12.477918231878322,
+    "value_count": 9
+  },
+  {
+    "model": "claude-opus-4-6",
+    "overall_general_score_mean": 81.71075224908789,
+    "overall_general_score_std": 13.228389761481985,
+    "value_count": 9
+  },
+  {
+    "model": "gemini-2.5-flash-lite",
+    "overall_general_score_mean": 74.61272349440144,
+    "overall_general_score_std": 13.338702404088307,
+    "value_count": 9
+  },
+  {
+    "model": "claude-haiku-4-5-20251001",
+    "overall_general_score_mean": 76.96243865080575,
+    "overall_general_score_std": 15.297112949652016,
+    "value_count": 9
+  },
+  {
+    "model": "qwen2:7b",
+    "overall_general_score_mean": 49.307878764384455,
+    "overall_general_score_std": 15.839612522397493,
+    "value_count": 9
+  },
+  {
+    "model": "mistral-small-2506",
+    "overall_general_score_mean": 73.4895871658741,
+    "overall_general_score_std": 15.866086168764465,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-3.5-turbo",
+    "overall_general_score_mean": 48.86121438323171,
+    "overall_general_score_std": 16.023038596282866,
+    "value_count": 9
+  },
+  {
+    "model": "gpt-3.5-turbo-1106",
+    "overall_general_score_mean": 49.74720159985274,
+    "overall_general_score_std": 17.960360690296664,
+    "value_count": 9
+  },
+  {
+    "model": "nous-hermes2",
+    "overall_general_score_mean": 45.683249513529,
+    "overall_general_score_std": 19.584697319894758,
+    "value_count": 9
+  }
+]

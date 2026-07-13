@@ -1,0 +1,11 @@
+Generative KI, auch als kreative KI bezeichnet, ist ein wichtiger Teil der Künstlichen Intelligenz. 
+Sie beschäftigt sich mit der Erstellung neuer Dinge wie Bildern, Texten oder anderen Inhalten mithilfe von Algorithmen und Modellen. 
+Im Gegensatz zu anderen KI-Anwendungen, die Daten nur analysieren und auswerten, will Generative KI eigentliche neue Inhalte erzeugen.
+Um herauszufinden, wie diese neuen Inhalte funktionieren, verwendet Generative KI verschiedene Lernmethoden. 
+Sie betrachtet viele Daten, um darin Muster zu finden. 
+Sobald das Modell ausgebildet ist, kann es neue Daten und Bilder erstellen.
+Generative KI wird in vielen Bereichen eingesetzt, zum Beispiel für die Erstellung von Kunstwerken oder dem Schreiben neuer Texte (wie bei ChatGPT). 
+Sie kann auch realistische Bilder erstellen oder virtuelle Welten erfinden. 
+Diese Technologie hat das Potenzial, viele Branchen zu verändern und neue Wege der Inhalterstellung aufzuzeigen.
+Dennoch gibt es Bedenken bezüglich möglicher Missbrauchsmöglichkeiten von Generativer KI, insbesondere bei der Erzeugung gefälschter Inhalte oder Deepfake-Videos. 
+Es ist wichtig, die Risiken und Herausforderungen dieser Technologie zu verstehen und anzugehen, um eine sichere und verantwortungsvolle Nutzung sicherzustellen.

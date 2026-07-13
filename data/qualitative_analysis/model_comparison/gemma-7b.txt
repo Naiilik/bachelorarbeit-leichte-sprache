@@ -1,0 +1,4 @@
+Die Generative AI ist eine Art von Künstlicher Intelligenz, die neue Inhalte wie Bilder, Texte oder Daten erschafft.
+Sie verwendet Algorithmen, um Muster in Daten zu lernen und neue Inhalte zu erzeugen.
+Generative AI hat viele Anwendungen. 
+Zum Beispiel die Erstellung von Kunstwerken, das Generieren von Texten und die Erzeugung von realistischen Bildern.

@@ -1,0 +1,246 @@
+{
+  "best_worst_per_prompt": {
+    "Einfach": {
+      "best_model": "claude-opus-4-5-20251101",
+      "best_score": 88.852,
+      "worst_model": "nous-hermes2",
+      "worst_score": 42.832
+    },
+    "Moderat": {
+      "best_model": "gemini-2.5-flash",
+      "best_score": 90.959,
+      "worst_model": "gemma:7b",
+      "worst_score": 42.07
+    },
+    "Komplex": {
+      "best_model": "gemini-3-flash-preview",
+      "best_score": 91.311,
+      "worst_model": "phi3:mini",
+      "worst_score": 37.726
+    }
+  },
+  "most_consistent_model": {
+    "model": "gpt-4",
+    "spread": 0.653,
+    "max_score": 84.31,
+    "min_score": 83.656
+  },
+  "most_variable_model": {
+    "model": "claude-haiku-4-5-20251001",
+    "spread": 17.595,
+    "max_score": 84.202,
+    "min_score": 66.607
+  },
+  "spread_ranking": [
+    {
+      "model": "gpt-4",
+      "spread": 0.653,
+      "max_score": 84.31,
+      "min_score": 83.656
+    },
+    {
+      "model": "gpt-5.4-mini",
+      "spread": 1.982,
+      "max_score": 78.351,
+      "min_score": 76.37
+    },
+    {
+      "model": "claude-opus-4-1-20250805",
+      "spread": 2.014,
+      "max_score": 84.957,
+      "min_score": 82.943
+    },
+    {
+      "model": "mistral-small-latest",
+      "spread": 2.506,
+      "max_score": 71.269,
+      "min_score": 68.763
+    },
+    {
+      "model": "claude-sonnet-4-5-20250929",
+      "spread": 2.845,
+      "max_score": 83.932,
+      "min_score": 81.087
+    },
+    {
+      "model": "gpt-3.5-turbo-1106",
+      "spread": 3.072,
+      "max_score": 51.722,
+      "min_score": 48.65
+    },
+    {
+      "model": "gpt-4.1-mini",
+      "spread": 3.322,
+      "max_score": 81.124,
+      "min_score": 77.801
+    },
+    {
+      "model": "gpt-4.1",
+      "spread": 3.456,
+      "max_score": 84.59,
+      "min_score": 81.134
+    },
+    {
+      "model": "gpt-4.1-nano",
+      "spread": 4.122,
+      "max_score": 80.038,
+      "min_score": 75.916
+    },
+    {
+      "model": "llama3:8b",
+      "spread": 4.403,
+      "max_score": 50.13,
+      "min_score": 45.727
+    },
+    {
+      "model": "claude-opus-4-6",
+      "spread": 4.59,
+      "max_score": 84.427,
+      "min_score": 79.837
+    },
+    {
+      "model": "gpt-3.5-turbo-0125",
+      "spread": 4.602,
+      "max_score": 52.743,
+      "min_score": 48.14
+    },
+    {
+      "model": "gpt-5.4-nano",
+      "spread": 4.772,
+      "max_score": 87.522,
+      "min_score": 82.75
+    },
+    {
+      "model": "gemini-3.1-flash-lite",
+      "spread": 5.657,
+      "max_score": 86.928,
+      "min_score": 81.271
+    },
+    {
+      "model": "gemma:7b",
+      "spread": 5.873,
+      "max_score": 47.943,
+      "min_score": 42.07
+    },
+    {
+      "model": "gemini-3-flash-preview",
+      "spread": 5.992,
+      "max_score": 91.311,
+      "min_score": 85.319
+    },
+    {
+      "model": "claude-sonnet-4-20250514",
+      "spread": 6.271,
+      "max_score": 84.434,
+      "min_score": 78.163
+    },
+    {
+      "model": "claude-opus-4-20250514",
+      "spread": 7.392,
+      "max_score": 88.145,
+      "min_score": 80.753
+    },
+    {
+      "model": "mistral-medium-2508",
+      "spread": 7.449,
+      "max_score": 80.314,
+      "min_score": 72.866
+    },
+    {
+      "model": "mistral-small-2409",
+      "spread": 7.567,
+      "max_score": 75.399,
+      "min_score": 67.832
+    },
+    {
+      "model": "mistral-medium-latest",
+      "spread": 7.671,
+      "max_score": 79.269,
+      "min_score": 71.598
+    },
+    {
+      "model": "mistral-large-latest",
+      "spread": 7.978,
+      "max_score": 84.911,
+      "min_score": 76.933
+    },
+    {
+      "model": "gemini-2.5-flash",
+      "spread": 8.034,
+      "max_score": 90.959,
+      "min_score": 82.925
+    },
+    {
+      "model": "nous-hermes2",
+      "spread": 8.356,
+      "max_score": 51.188,
+      "min_score": 42.832
+    },
+    {
+      "model": "gpt-4-turbo",
+      "spread": 8.525,
+      "max_score": 80.054,
+      "min_score": 71.529
+    },
+    {
+      "model": "mistral-large-2512",
+      "spread": 9.16,
+      "max_score": 85.623,
+      "min_score": 76.464
+    },
+    {
+      "model": "mistral-small-2506",
+      "spread": 9.953,
+      "max_score": 77.064,
+      "min_score": 67.111
+    },
+    {
+      "model": "claude-sonnet-4-6",
+      "spread": 10.513,
+      "max_score": 81.38,
+      "min_score": 70.867
+    },
+    {
+      "model": "gpt-3.5-turbo",
+      "spread": 10.583,
+      "max_score": 55.795,
+      "min_score": 45.212
+    },
+    {
+      "model": "gpt-5.4",
+      "spread": 10.724,
+      "max_score": 83.732,
+      "min_score": 73.008
+    },
+    {
+      "model": "claude-opus-4-5-20251101",
+      "spread": 11.383,
+      "max_score": 88.852,
+      "min_score": 77.469
+    },
+    {
+      "model": "phi3:mini",
+      "spread": 11.635,
+      "max_score": 49.36,
+      "min_score": 37.726
+    },
+    {
+      "model": "gemini-2.5-flash-lite",
+      "spread": 12.091,
+      "max_score": 80.647,
+      "min_score": 68.556
+    },
+    {
+      "model": "qwen2:7b",
+      "spread": 12.942,
+      "max_score": 55.01,
+      "min_score": 42.068
+    },
+    {
+      "model": "claude-haiku-4-5-20251001",
+      "spread": 17.595,
+      "max_score": 84.202,
+      "min_score": 66.607
+    }
+  ]
+}
