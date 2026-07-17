@@ -3,4 +3,7 @@ export default defineNuxtConfig({
   modules: ["nitro-cloudflare-dev"],
   compatibilityDate: "2025-07-15",
   devtools: { enabled: true },
+  devServer: {
+    port: 3001,
+  },
 });
