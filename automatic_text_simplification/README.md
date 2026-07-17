@@ -12,8 +12,7 @@ Der Aufbau der Pipeline folgt folgender Architektur:
 
 - Python 3.14.2
 - Node.js
-- n8n
-- API-Keys
+- n8n (falls n8n nicht self-hosted)
 - Docker (falls n8n self-hosted)
 
 ## Python Setup
